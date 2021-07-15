@@ -21,6 +21,7 @@ Les clients peuvent aussi être des professionnels. Dans ce cas, ils seront plac
 - permettre de faire des requêtes pour savoir les ventes réalisées par les clients ayant un code privilège donné (le code privilège correspond à un commercial qui se vera attribuer une commission sur toutes les ventes faites avec son code privilège)
 - permettre au commercial de suivre, depuis son espace client, la liste des ventes de ses clients et de connaître le montant de ses commissions
 - trouver une icone pour le module
+- permettre de placer le champ code privilege plus haut dans le formulaire de création de compte (et pas forcément tout en bas)
 
 
 ## Historique des versions ##
