@@ -9,7 +9,7 @@ class Privilege extends Module
     {
         $this->name = 'privilege';
         $this->tab = 'others';
-        $this->version = '1.0.0';
+        $this->version = '1.0.1';
         $this->author = 'Stéphane Burlet';
         $this->need_instance = 0;
         $this->ps_versions_compliancy = [
